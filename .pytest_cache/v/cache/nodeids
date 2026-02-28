@@ -1,0 +1,5 @@
+[
+  "tests/test_ultra_file_search.py::TestSearch::test_basic",
+  "tests/test_ultra_file_search.py::TestSearch::test_empty",
+  "tests/test_ultra_file_search.py::TestSearch::test_type_error"
+]
